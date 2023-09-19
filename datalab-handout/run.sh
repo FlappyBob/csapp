@@ -1,0 +1,3 @@
+make 
+./btest
+make clean

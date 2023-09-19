@@ -1,0 +1,1 @@
+gcc -o exec -Wall csim.c
